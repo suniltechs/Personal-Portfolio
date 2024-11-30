@@ -8,6 +8,12 @@ This is the personal portfolio project showcasing my skills, projects, and exper
 - Contact form to reach out for collaborations and opportunities.
 - Showcases recent projects I’ve worked on.
 
+## Demo
+
+You can view the live version of the website here:
+
+[Live Demo](https://suniltechs.github.io/Personal-Portfolio/)
+
 ## Technologies Used
 - HTML5
 - CSS3
