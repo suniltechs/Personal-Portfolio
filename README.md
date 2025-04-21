@@ -18,7 +18,6 @@ You can view the live version of the website here:
 - HTML5
 - CSS3
 - JavaScript
-- JQuery
 
 ## Installation
 
